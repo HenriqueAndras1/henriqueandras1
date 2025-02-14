@@ -35,7 +35,7 @@ Sou desenvolvedor em formação, apaixonado por tecnologia e sempre buscando apr
 
 </div>
 
-### 💼 Conecte-se comigo no LinkedIn:
+###  Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique%20Silva-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquesilvaaa/)
 [![Email](https://img.shields.io/badge/Email-henriquesaa10%40gmail.com-red?logo=gmail&logoColor=white)](mailto:henriquesaa10@gmail.com)
 
